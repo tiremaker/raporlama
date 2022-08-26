@@ -11,7 +11,7 @@ IP_URL=http://localhost/newapp/raporlama
 ENABLE_DEBUG=false
 
 # Set this setting to 'true' if you want to disable the setup for security purposes
-DISABLE_SETUP=true
+DISABLE_SETUP=false
 
 # To remove index.php from the URL, set this setting to 'true'.
 # Please notice the additional instructions in the htaccess file!
@@ -41,7 +41,7 @@ DISABLE_READ_ONLY=false
 ##
 
 # This key is automatically set after the first setup. Do not change it manually!
-ENCRYPTION_KEY=base64:0xNO37XNdqGoJLdEyqglM1KYOAUb6gQyjd9PaK1CGO4=
+ENCRYPTION_KEY=
 ENCRYPTION_CIPHER=AES-256
 
 # Set to true after the initial setup
