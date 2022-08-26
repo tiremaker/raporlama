@@ -15,7 +15,7 @@
         if (get_setting('custom_title') != '') {
             echo get_setting('custom_title');
         } else {
-            echo 'Online Accounting Lite';
+            echo 'InvoicePlane';
         } ?>
     </title>
 

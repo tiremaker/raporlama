@@ -1,6 +1,6 @@
 # Contribution Information
 
-### Contribution to Online Accounting Lite
+### Contribution to InvoicePlane
 
 Every help is welcome, you don't have to be a professional PHP developer or SQL database engineer.
 We appreciate any support with helping other users, translating the software or simply spreading
@@ -58,19 +58,19 @@ they are added automatically in the compilation process!
 
 ### Versioning and Git Branches
 
-We do use [SemVer](https://semver.org/) to version Online Accounting Lite which means:
+We do use [SemVer](https://semver.org/) to version InvoicePlane which means:
 
   * Bugfixes or smaller improvements go into minor versions like `v1.3.2` or `v1.5.6`.
   * New features or larger improvements go into feature versions like `v1.4.0` or `v1.6.0`.
 
 
-The Online Accounting Lite branch structure consists of four different branch types
+The InvoicePlane branch structure consists of four different branch types
 
   * `master`  This branch contains the current stable version of the application.
               There will never be any development activity on this branch so please refrain
               from using it for pull requests.
 
-  * `1.5`     Branches that contain only a feature version of Online Accounting Lite, like `1.3`
+  * `1.5`     Branches that contain only a feature version of InvoicePlane, like `1.3`
               or `1.5` are archive branches that contain the last stable release of that
               specific version.
 
@@ -97,7 +97,7 @@ If you just want to change PHP code or HTML files, you just need to have
 the PHP dependencies with the help of the `composer.json` file.
 
   1. Run `composer install` to install all dependencies.
-  2. Follow the basic installation guide in the README.md or the Online Accounting Lite Wiki.
+  2. Follow the basic installation guide in the README.md or the InvoicePlane Wiki.
   3. Make sure your editor or IDE has the correct code formatting settings set.
   4. That's it. You are good to go.
 
@@ -106,13 +106,13 @@ the PHP dependencies with the help of the `composer.json` file.
 
 To change the actual styling of the application or scripts you may have to install
 some other tools.
-Please notice that Online Accounting Lite has a unique theme system that splits up styles
-into core styles and theme styles. Please visit the [Online Accounting Lite Themes](https://github.com/Online Accounting Lite/Online Accounting Lite-Themes)
+Please notice that InvoicePlane has a unique theme system that splits up styles
+into core styles and theme styles. Please visit the [InvoicePlane Themes](https://github.com/InvoicePlane/InvoicePlane-Themes)
 repository for more information.
 This main repository ONLY manages core styles and scripts. If you want to develop a new
-theme please use the Online Accounting Lite Themes repository.
+theme please use the InvoicePlane Themes repository.
 
-  * Online Accounting Lite requires Node and NPM: [Install both](https://nodejs.org/en/download/)  
+  * InvoicePlane requires Node and NPM: [Install both](https://nodejs.org/en/download/)  
     Make sure to use the latest LTS version which is version 8 at the moment.
   * Install Grunt globally by running `npm install -g grunt-cli`.
   
@@ -144,7 +144,7 @@ After that there are two commands available for development:
 
     * If an issue exists and someone is working on it, please contact this person.
     * If an issue exists and no one is working on it, assign it to yourself or write a comment.
-    * If no issue exists, contact the Online Accounting Lite team via the forums or the Slack channel first!
+    * If no issue exists, contact the InvoicePlane team via the forums or the Slack channel first!
       We would like to discuss what you want to do before you start to work.
 
 2. ALWAYS reference the issue ID (e.g. IP-317) in all commits you create for this issue.
@@ -153,7 +153,7 @@ After that there are two commands available for development:
    to make sure that there are no duplicate commits and you do not revert any previous changes.
 
     * Add the development branch as a remote:  
-      `git remote add ip git@github.com:Online Accounting Lite/Online Accounting Lite.git`
+      `git remote add ip git@github.com:InvoicePlane/InvoicePlane.git`
     * Do a rebase with the following command:  
       `git pull --rebase ip [branch]`  
       Where `ip` is the name of the remote and `[branch]` the corresponding branch.
@@ -167,5 +167,5 @@ will save both your and our time.
 
 ---
 
-> _The name 'Online Accounting Lite' and the Online Accounting Lite logo are both copyright by Kovah.de and Online Accounting Lite.com
+> _The name 'InvoicePlane' and the InvoicePlane logo are both copyright by Kovah.de and InvoicePlane.com
 and their usage is restricted! For more information visit invoiceplane.com/license-copyright_

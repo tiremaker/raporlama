@@ -1,12 +1,12 @@
 {
   "name": "invoiceplane",
   "version": "1.5.11",
-  "description": "Online Accounting Lite is a self-hosted open source application for managing your invoices, clients and payments",
+  "description": "InvoicePlane is a self-hosted open source application for managing your invoices, clients and payments",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Online Accounting Lite/Online Accounting Lite.git"
+    "url": "git+https://github.com/InvoicePlane/InvoicePlane.git"
   },
-  "author": "Online Accounting Lite Developers & Contributors",
+  "author": "InvoicePlane Developers & Contributors",
   "license": "MIT",
   "bugs": {
     "url": "https://development.invoiceplane.com"

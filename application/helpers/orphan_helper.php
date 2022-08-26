@@ -2,10 +2,10 @@
 if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 /*
- * Online Accounting Lite
+ * InvoicePlane
  *
- * @author      Online Accounting Lite Developers & Contributors
- * @copyright   Copyright (c) 2012 - 2018 Online Accounting Lite.com
+ * @author      InvoicePlane Developers & Contributors
+ * @copyright   Copyright (c) 2012 - 2018 InvoicePlane.com
  * @license     https://invoiceplane.com/license.txt
  * @link        https://invoiceplane.com
  */

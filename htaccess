@@ -1,4 +1,4 @@
-## Run Online Accounting Lite in a subfolder
+## Run InvoicePlane in a subfolder
 ## If you are using a subfolder please remove the hash in front of the line ‘#RewriteBase /subfolder’
 ## and replace ‘subfolder’ with the actual name of your folder, i.e. ‘RewriteBase /invoices’
 

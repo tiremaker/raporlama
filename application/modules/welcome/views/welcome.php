@@ -15,7 +15,7 @@
     <!-- Use the .htaccess and remove these lines to avoid edge case issues -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-    <title>Online Accounting Lite</title>
+    <title>InvoicePlane</title>
 
     <!-- Mobile viewport optimized: j.mp/bplateviewport -->
     <meta name="viewport" content="width=device-width">
@@ -30,19 +30,19 @@
 <div class="container">
 
     <div id="content">
-        <div id="logo"><span>Online Accounting Lite</span></div>
+        <div id="logo"><span>InvoicePlane</span></div>
         <p class="alert alert-info text-center">
-            Please install Online Accounting Lite.<br/>
-            <span class="text-muted">Bitte installiere Online Accounting Lite.</span><br/>
-            <span class="text-muted">S'il vous plaît installer Online Accounting Lite</span><br/>
-            <span class="text-muted">Por favor, instale Online Accounting Lite</span><br/>
+            Please install InvoicePlane.<br/>
+            <span class="text-muted">Bitte installiere InvoicePlane.</span><br/>
+            <span class="text-muted">S'il vous plaît installer InvoicePlane</span><br/>
+            <span class="text-muted">Por favor, instale InvoicePlane</span><br/>
         </p>
 
         <div class="btn-group btn-group-justified">
             <a href="<?php echo site_url('setup'); ?>" class="btn btn-success">
                 <i class="fa fa-cogs"></i> Setup
             </a>
-            <a href="https://onlineaccounting.co.za/docs/" class="btn btn-info">
+            <a href="https://wiki.invoiceplane.com/" class="btn btn-info">
                 <i class="fa fa-info-circle"></i> Get Help
             </a>
         </div>

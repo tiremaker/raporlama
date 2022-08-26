@@ -399,7 +399,7 @@ class Sumex
 
         $package = $this->doc->createElement('invoice:package');
         $package->setAttribute('version', '150');
-        $package->setAttribute('name', 'Online Accounting Lite');
+        $package->setAttribute('name', 'InvoicePlane');
 
         $generator = $this->doc->createElement('invoice:generator');
         $generator->setAttribute('name', 'PHP_Sumex');

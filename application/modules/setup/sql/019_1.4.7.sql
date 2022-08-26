@@ -1,11 +1,11 @@
 # IP-406 - Update the web preview for invoices and quotes
 UPDATE ip_settings
-SET setting_value = 'OA_Web'
+SET setting_value = 'InvoicePlane_Web'
 WHERE setting_key = 'public_invoice_template' AND
       setting_value = 'default';
 
 UPDATE ip_settings
-SET setting_value = 'OA_Web'
+SET setting_value = 'InvoicePlane_Web'
 WHERE setting_key = 'public_quote_template' AND
       setting_value = 'default';
 

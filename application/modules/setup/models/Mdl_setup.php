@@ -2,10 +2,10 @@
 if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 /*
- * Online Accounting Lite
+ * InvoicePlane
  *
- * @author		Online Accounting Lite Developers & Contributors
- * @copyright	Copyright (c) 2012 - 2018 Online Accounting Lite.com
+ * @author		InvoicePlane Developers & Contributors
+ * @copyright	Copyright (c) 2012 - 2018 InvoicePlane.com
  * @license		https://invoiceplane.com/license.txt
  * @link		https://invoiceplane.com
  */
@@ -117,12 +117,12 @@ class Mdl_Setup extends CI_Model
             'decimal_point' => '.',
             'cron_key' => random_string('alnum', 16),
             'tax_rate_decimal_places' => 2,
-            'pdf_invoice_template' => 'OALite',
-            'pdf_invoice_template_paid' => 'OALite - paid',
-            'pdf_invoice_template_overdue' => 'OALite - overdue',
-            'pdf_quote_template' => 'OALite',
-            'public_invoice_template' => 'OA_Web',
-            'public_quote_template' => 'OA_Web',
+            'pdf_invoice_template' => 'InvoicePlane',
+            'pdf_invoice_template_paid' => 'InvoicePlane - paid',
+            'pdf_invoice_template_overdue' => 'InvoicePlane - overdue',
+            'pdf_quote_template' => 'InvoicePlane',
+            'public_invoice_template' => 'InvoicePlane_Web',
+            'public_quote_template' => 'InvoicePlane_Web',
             'disable_sidebar' => 1,
         );
 

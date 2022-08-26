@@ -5,13 +5,13 @@ if (!defined('BASEPATH')) {
 }
 
 /*
- * Online Accounting Lite
+ * InvoicePlane
  * 
  * A free and open source web based invoicing system
  *
- * @package		Online Accounting Lite
+ * @package		InvoicePlane
  * @author		Kovah (www.kovah.de)
- * @copyright	Copyright (c) 2012 - 2015 Online Accounting Lite.com
+ * @copyright	Copyright (c) 2012 - 2015 InvoicePlane.com
  * @license		https://invoiceplane.com/license.txt
  * @link		https://invoiceplane.com
  * 

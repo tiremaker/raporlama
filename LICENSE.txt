@@ -1,30 +1,30 @@
 ================================================================================
-Copyright Notice for the Online Accounting Lite trademark
+Copyright Notice for the InvoicePlane trademark
 ================================================================================
-The name 'Online Accounting Lite' and the Online Accounting Lite logo are original copyright
-of Online Accounting Lite.com / Kovah.de and the following restrictions apply to
+The name 'InvoicePlane' and the InvoicePlane logo are original copyright
+of InvoicePlane.com / Kovah.de and the following restrictions apply to
 both of them:
 
 You are allowed to:
-- use the name 'Online Accounting Lite' or the Online Accounting Lite logo in any context directly
+- use the name 'InvoicePlane' or the InvoicePlane logo in any context directly
     related to the application or the project. This includes the application
-    itself, local communities and news or blog posts about Online Accounting Lite or
-- use the name 'Online Accounting Lite' or the Online Accounting Lite logo to provide professional
-    support or hosting for the Online Accounting Lite application.
+    itself, local communities and news or blog posts about InvoicePlane or
+- use the name 'InvoicePlane' or the InvoicePlane logo to provide professional
+    support or hosting for the InvoicePlane application.
 
 You are NOT allowed to:
-- use the name 'Online Accounting Lite' or the Online Accounting Lite logo in any context that is
+- use the name 'InvoicePlane' or the InvoicePlane logo in any context that is
     NOT related to the project,
-- alter the name 'Online Accounting Lite' or the Online Accounting Lite logo in any way or
-- sell or redistribute the application under the name 'Online Accounting Lite' and the
-    Online Accounting Lite logo.
+- alter the name 'InvoicePlane' or the InvoicePlane logo in any way or
+- sell or redistribute the application under the name 'InvoicePlane' and the
+    InvoicePlane logo.
 
 Please contact us for more information or permission for exceptional cases.
 
 ================================================================================
-License for Online Accounting Lite
+License for InvoicePlane
 ================================================================================
-Copyright (c) 2012-2014 Online Accounting Lite.com
+Copyright (c) 2012-2014 InvoicePlane.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of 
 this software and associated documentation files (the "Software"), to deal in 
