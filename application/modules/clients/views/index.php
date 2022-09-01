@@ -20,7 +20,7 @@
         <div class="btn-group btn-group-sm index-options">
             <a href="<?php echo site_url('clients/status/active'); ?>"
                class="btn <?php echo $this->uri->segment(3) == 'active' || !$this->uri->segment(3) ? 'btn-primary' : 'btn-default' ?>">
-                <?php _trans('active'); ?>
+                <?php _trans('active_client'); ?>
             </a>
             <a href="<?php echo site_url('clients/status/inactive'); ?>"
                class="btn  <?php echo $this->uri->segment(3) == 'inactive' ? 'btn-primary' : 'btn-default' ?>">

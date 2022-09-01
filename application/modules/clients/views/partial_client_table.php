@@ -2,7 +2,7 @@
     <table class="table table-hover table-striped">
         <thead>
         <tr>
-            <th><?php _trans('active'); ?></th>
+            <th><?php _trans('status'); ?></th>
             <th><?php _trans('client_name'); ?></th>
             <th><?php _trans('email_address'); ?></th>
             <th><?php _trans('phone_number'); ?></th>
@@ -14,7 +14,7 @@
         <?php foreach ($records as $client) : ?>
             <tr>
 				<td>
-					<?php echo ($client->client_active) ? '<span class="label active">' . trans('yes') . '</span>' : '<span class="label inactive">' . trans('no') . '</span>'; ?>
+					<?php echo ($client->client_active) ? '<span class="label active">' . trans('active_client') . '</span>' : '<span class="label inactive">' . trans('passive_client') . '</span>'; ?>
 				</td>
                 <td><?php echo anchor('clients/view/' . $client->client_id, htmlsc(format_client($client))); ?></td>
                 <td><?php _htmlsc($client->client_email); ?></td>
