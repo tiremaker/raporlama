@@ -1,6 +1,10 @@
 <div id="content">
     <?php echo $this->layout->load_view('layout/alerts'); ?>
 
+    <?php
+
+    /*Hızlı işlem menüsü ayarlaması daha sonra ekranda düzenlenebilir.
+  
     <div class="row <?php if (get_setting('disable_quickactions') == 1) echo 'hidden'; ?>">
         <div class="col-xs-12">
 
@@ -32,7 +36,7 @@
             </div>
         </div>
     </div>
-
+    */?>
     <div class="row">
         <div class="col-xs-12 col-md-6">
 
